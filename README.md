@@ -1,24 +1,18 @@
-White Paper
-============
+# Jekyll template
+Light and beautiful blog style template for jekyll
 
-White Paper is a jekyll theme for tech blogs. It is clean and simple with good semantic
-structure.
+[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Twitter](https://img.shields.io/badge/Twitter-@slender_rich-blue.svg?style=flat)](https://twitter.com/slender_rich)
 
-![white-paper image](https://i.cloudup.com/rmZjQ83vRh-2000x2000.png)
+![preview](http://i.imgur.com/UzW9sxd.jpg)
 
-## Usage:
+## Demo
+Find a demo [here](http://nikrich.github.io/jekyll-wing-template/#)
 
-- Install Jekyll from here(http://jekyllrb.com/)
-- Fork the project.
-- Change the fields in _config.yml
-- Change the links in header.html.s
+## Contributing
 
-Test the website live while editing the code:
-
-```sh
-jekyll server --watch
-```
-
-## Issues:
-
-Report issues or feature request [here](https://github.com/vinitkumar/white-paper/issues).
+1. Clone the repo
+2. Checkout the dev branch ( Do not work directly on master )
+3. Use ```jekyll serve``` to run the project
+4. Make your changes and test
+5. Submit a pull request
