@@ -4,5 +4,5 @@ title:  "JVM对象的创建"
 date:   6/2/2017 2:25:18 PM 
 categories: java
 ---
-在整个java体系中我们可以通过调整jvm的参数从而做到如何去更高效更便捷的去使用数据
-<img src="/huangyiCode.github.io/assets/hero.jpg" width=256 height=256 />
+在整个java体系中我们可以通过调整jvm的参数从而做到如何去更高效更便捷的去使用数据<br>
+<img src="/huangyiCode.github.io/assets/hero.jpg" width=256 height=256/>
