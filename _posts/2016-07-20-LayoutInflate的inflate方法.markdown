@@ -4,7 +4,6 @@ title:  "LayoutInflate(布局填充器)的使用"
 date:   6/3/2017 9:37:28 PM 
 categories: Android
 ---
-dDdD
 ###1.初始化   
 
 　　　● 通过Activity的方法  
